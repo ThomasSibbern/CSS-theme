@@ -1,8 +1,11 @@
-<style>
 :root {
 --brand-color: #19C7A9;
 --dark-color: #302A38;
 --mid-color: #55505C;
 --light-color: #FFFFFF;
+  
+  
+  --font-base: 'verdana', serif;
+  --font-header: 'time new roman, serif;
+  
   }
-</style>
